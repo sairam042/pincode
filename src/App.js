@@ -1,4 +1,3 @@
-import React,{useState} from 'react';
 import PincodeLookup from './PincodeLookup';
 
 function App() {
