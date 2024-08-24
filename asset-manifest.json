@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pincode/static/css/main.e6c13ad2.css",
+    "main.js": "/pincode/static/js/main.2b09d501.js",
+    "static/js/453.8ca256d5.chunk.js": "/pincode/static/js/453.8ca256d5.chunk.js",
+    "index.html": "/pincode/index.html",
+    "main.e6c13ad2.css.map": "/pincode/static/css/main.e6c13ad2.css.map",
+    "main.2b09d501.js.map": "/pincode/static/js/main.2b09d501.js.map",
+    "453.8ca256d5.chunk.js.map": "/pincode/static/js/453.8ca256d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2b09d501.js"
+  ]
+}
